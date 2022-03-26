@@ -1,2 +1,2 @@
 # css-flexbox
-css-flexbox tutorial
+CSS Flexbox tutorial codes and files
